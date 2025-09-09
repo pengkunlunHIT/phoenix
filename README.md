@@ -106,3 +106,15 @@ sudo bash kvcache.sh
 cd scripts
 sudo python load_safetensors.py
 ```
+
+## Cite Our Paper
+```
+@inproceedings {sc25Phoenix,
+  author = {Jianqin Yan, Shi Qiu, Yina Lv, Yifan Hu, Hao Chen, Zhirong Shen, Xin Yao, Renhai Chen, Jiwu Shu, Gong Zhang, and Yiming Zhang.},
+  title = {Phoenix:A Refactored I/O Stack for GPU Direct Storage without Phony Buffers.},
+  booktitle = {The International Conference for High Performance Computing, Networking, Storage and Analysis (SC ’25)},
+  year = {2025},
+  address = {St Louis, MO, USA},
+  publisher = {ACM}
+}
+```
