@@ -58,6 +58,8 @@ Note: this will compile all the benchmarks including the kernel module
 ```shell
 cd build && sudo make insmod
 ```
+If an error occurs while installing the kernel module, refer to [Install kernel Module](docs/install-kernel.md) for troubleshooting.
+
 Note: must run `nvidia-smi` to `modprobe` nvidia driver before install phoenix kernel module.
 ### 2. Example for Using libphoenix
 We have provided a simple example to illustrate how to program using libphoenix
